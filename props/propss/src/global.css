@@ -1,0 +1,16 @@
+.root {
+  background-color: darkgoldenrod;
+  padding: 20px;
+}
+.grandparent {
+  background-color: powderblue;
+  padding: 20px;
+}
+.Parent {
+  background-color: khaki;
+  padding: 20px;
+}
+.Child {
+  background-color: forestgreen;
+  padding: 20px;
+}

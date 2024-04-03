@@ -1,0 +1,44 @@
+[
+    {
+        "name": "sonu",
+        "age": 25,
+        "email": "sonu@gmail.com",
+        "phone": 987654321,
+        "img":"https://thumbs.dreamstime.com/z/taj-mahal-agra-india-14026311.jpg?w=768"
+    },
+    {
+        "name": "ashish",
+        "age": 25,
+        "email": "ashish@gmail.com",
+        "phone": 987654321,
+        "img" : "https://thumbs.dreamstime.com/z/taj-mahal-agra-india-14026311.jpg?w=768"
+    },
+    {
+        "name": "priyanshu",
+        "age": 25,
+        "email": "priyanshu@gmail.com",
+        "phone": 987654321,
+        "img" : "https://thumbs.dreamstime.com/z/taj-mahal-agra-india-14026311.jpg?w=768"
+    },
+    {
+        "name": "singh",
+        "age": 25,
+        "email": "singh@gmail.com",
+        "phone": 987654321,
+        "img" : "https://thumbs.dreamstime.com/z/taj-mahal-agra-india-14026311.jpg?w=768"
+    },
+    {
+        "name": "sonu",
+        "age": 25,
+        "email": "sonu@gmail.com",
+        "phone": 987654321,
+        "img" : "https://thumbs.dreamstime.com/z/taj-mahal-agra-india-14026311.jpg?w=768"
+    },
+    {
+        "name": "sonu",
+        "age": 25,
+        "email": "sonu@gmail.com",
+        "phone": 987654321,
+        "img" : "https://thumbs.dreamstime.com/z/taj-mahal-agra-india-14026311.jpg?w=768"
+    }
+]
